@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Zapatasfelipe/testReact.github.io.git/static/css/main.073c9b0a.css",
+    "main.js": "/Zapatasfelipe/testReact.github.io.git/static/js/main.b65850d8.js",
+    "static/js/787.0c3f432a.chunk.js": "/Zapatasfelipe/testReact.github.io.git/static/js/787.0c3f432a.chunk.js",
+    "index.html": "/Zapatasfelipe/testReact.github.io.git/index.html",
+    "main.073c9b0a.css.map": "/Zapatasfelipe/testReact.github.io.git/static/css/main.073c9b0a.css.map",
+    "main.b65850d8.js.map": "/Zapatasfelipe/testReact.github.io.git/static/js/main.b65850d8.js.map",
+    "787.0c3f432a.chunk.js.map": "/Zapatasfelipe/testReact.github.io.git/static/js/787.0c3f432a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.b65850d8.js"
+  ]
+}
